@@ -1,6 +1,6 @@
 # SQL_Coding_Challange_BrainTree
 
-This repository contains a set of SQL queries and tasks that pertain to data analysis and manipulation. Below is a brief description of each task and the SQL queries used to accomplish them. The questions was asked in on of the Paypal take home assessment for the role of Data Analyst.
+This repository contains a set of SQL queries and tasks that pertain to data analysis and manipulation. It uses a comprehensive combination of both basics and advance queries. Below is a brief description of each task and the SQL queries used to accomplish them. The questions was asked in on of the Paypal take home assessment for the role of Data Analyst.
 Thanks to Nick Singh from DataLemur for providing the reference. 
 
 I used Google Big Query for my analysis. I have attached the data files and output. Result is not validated with the origianl solution.
